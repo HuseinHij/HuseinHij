@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Hussein Hijazi
 
-<!--
-**HuseinHij/HuseinHij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student passionate about AI, Networking, Web Development, and Research. I enjoy building real-world applications that combine practicality with innovation, especially those that use AI for social good.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Aubify](https://github.com/HuseinHij/aubify) – A Reddit-style Q&A platform built exclusively for AUB students. It enables students to post questions, vote, comment, and share academic content in a focused, campus-based community.
+- [Cancer Classifier](https://github.com/HuseinHij/cancer-classifier) – A machine learning model for classifying 4 types of cancer using high-dimensional tabular data. The dataset contains thousands of features and rows, with extensive work in preprocessing, feature engineering, and model evaluation.
+
+## 🌱 Interests
+
+- Machine Learning and Deep Learning
+- Networking & Cybersecurity
+- Full-stack Web Development
+- Research & Applied AI
+- AI for Social Good
+
+## 📫 How to reach me
+
+- [LinkedIn](https://www.linkedin.com/in/hussein-hijazi-601900290)
+- 📧 Email: HuseinHijazi31@gmail.com
